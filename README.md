@@ -26,7 +26,7 @@ The dataset used in this project is sourced from Kaggle and contains 506 samples
 **How to Run:**
 
 Clone the repository:
-      git clone https://github.com
+      git clone [https://github.com](https://github.com/premsaivalluru/House_Price_Prediction_using_LinearRegression.git)
 
 Install dependencies:
       pip install pandas numpy scikit-learn matplotlib seaborn
