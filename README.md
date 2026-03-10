@@ -12,6 +12,7 @@ The goal of this project is to build a predictive model that estimates house pri
 
 #### Dataset Information: ####
 The dataset used in this project is sourced from Kaggle and contains 506 samples with 13 predictive features:
+
       CRIM     -	Per capita crime rate by town
       RM	     -  Average number of rooms per dwelling
       LSTAT	%  -  lower status of the population
