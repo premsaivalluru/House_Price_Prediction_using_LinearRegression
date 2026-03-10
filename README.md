@@ -19,8 +19,8 @@ The dataset used in this project is sourced from Kaggle and contains 506 samples
       MEDV	   -  Target: Median value of owner-occupied homes (in $1,000s)
 
 **Tech Stack:**
-Language: Python
-Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+# Language: Python
+# Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 
 **How to Run:**
