@@ -4,9 +4,10 @@ A machine learning project that implements Regression models to predict the medi
 
 #### Project Overview: ####
 The goal of this project is to build a predictive model that estimates house prices using the classic Boston Housing Dataset. This project covers the entire machine learning pipeline, including:
-    ##### Data Exploration (EDA): Identifying correlations between features like room numbers and property value. #####
-    ##### Preprocessing: Handling outliers and scaling data for improved accuracy. #####
-    ##### Modeling: Training and comparing regression algorithms like Linear Regression, Random Forest, and Decision Trees. #####
+    
+    Data Exploration (EDA): Identifying correlations between features like room numbers and property value.
+    Preprocessing: Handling outliers and scaling data for improved accuracy.
+    Modeling: Training and comparing regression algorithms like Linear Regression, Random Forest, and Decision Trees.
 
 
 #### Dataset Information: ####
