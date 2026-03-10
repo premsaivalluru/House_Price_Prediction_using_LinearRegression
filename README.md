@@ -18,7 +18,7 @@ The dataset used in this project is sourced from Kaggle and contains 506 samples
       TAX	     -  Full-value property-tax rate per $10,000
       MEDV	   -  Target: Median value of owner-occupied homes (in $1,000s)
 
-**Tech Stack:**
+# Tech Stack:
 # Language: Python
 # Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
